@@ -11,7 +11,7 @@ Usage:
 I have extracted all the DataFrames as csv files available in this repository as well. 
 All the pertanat code for the tests run are saved here as well. 
 
-Strategies used:
+Strategies:
 
 Used web scraping for gross data through requests and json.
 
