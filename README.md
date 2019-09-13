@@ -14,7 +14,11 @@ All the pertanat code for the tests run are saved here as well.
 Strategies used:
 
 Used web scraping for gross data through requests and json.
+
 Cleaned the data through jupyter notebook using Pandas.
+
 Found correlations through Pandas builtin functions, matplotlib and seaborn graphs.
+
 Ran bootstap samples to test the population mean.
+
 Linear regression was run from sklearn. 
