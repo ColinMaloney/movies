@@ -13,7 +13,7 @@ All the pertanat code for the tests run are saved here as well.
 
 Strategies:
 
-Used web scraping for gross data through requests and json.
+Web scraping for movie gross profit data through requests and json.
 
 Cleaned the data through jupyter notebook using Pandas.
 
