@@ -11,10 +11,14 @@ Usage:
 I have extracted all the DataFrames as csv files available in this repository as well. 
 All the pertanat code for the tests run are saved here as well. 
 
-Strategies used:
+Strategies:
 
-Used web scraping for gross data through requests and json.
+Web scraping for movie gross profit data through requests and json.
+
 Cleaned the data through jupyter notebook using Pandas.
+
 Found correlations through Pandas builtin functions, matplotlib and seaborn graphs.
+
 Ran bootstap samples to test the population mean.
+
 Linear regression was run from sklearn. 
