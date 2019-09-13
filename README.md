@@ -15,6 +15,6 @@ Strategies used:
 
 Used web scraping for gross data through requests and json.
 Cleaned the data through jupyter notebook using Pandas.
-Found correlations through Pandas builtin functions and matplotlib and seaborn graphs.
+Found correlations through Pandas builtin functions, matplotlib and seaborn graphs.
 Ran bootstap samples to test the population mean.
 Linear regression was run from sklearn. 
